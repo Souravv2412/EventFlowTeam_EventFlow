@@ -37,8 +37,7 @@ The system aims to:
 - Project Charter.docx
 
 /screenshots
-- Basecamp_ToDo.png
-- Basecamp_Schedule.png
+- Basecamp_Screenshot.pdf
 
 /source-code
 - (Empty for now – reserved for future development)
