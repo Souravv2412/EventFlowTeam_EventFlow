@@ -130,7 +130,7 @@ The team takes **full responsibility** for:
 ## 🔗 GitHub Repository Link
 *(Add your public repo link once created)*  
 Example:  
-`https://github.com/EventFlowTeam/EventFlow`
+`https://github.com/Souravv2412/EventFlowTeam_EventFlow`
 
 ---
 
