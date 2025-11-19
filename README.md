@@ -44,7 +44,7 @@ The system aims to:
 - (Empty for now – reserved for future development)
 
 /presentations
-- Final_Presentation_Slides.pdf
+- Final_Presentation_Slides.pptx
 
 
 ---
