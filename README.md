@@ -128,15 +128,15 @@ The team takes **full responsibility** for:
 ---
 
 ## 🔗 GitHub Repository Link
-*(Add your public repo link once created)*  
-Example:  
 `https://github.com/Souravv2412/EventFlowTeam_EventFlow`
 
 ---
 
 ## 📞 Contact
 For questions regarding this project, please contact any team member.
-
+- **Bassey Elliot BE20@myscc.ca**
+- **Souravdeep Durgesh Singh ss2368myscc.ca**
+- **Wangchen Peng WP17@myscc.ca**
 ---
 
 ## 🎉 Thank You!
