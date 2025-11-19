@@ -1,7 +1,7 @@
 # EventFlow — Event Management System
 
 ## 👥 Team Name
-**EventFlow Team**
+- **EventFlow Team**
 
 ## 👨‍💻 Team Members
 - **Bassey Elliot**
