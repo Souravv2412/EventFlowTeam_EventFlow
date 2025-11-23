@@ -32,18 +32,20 @@ The system aims to:
 
 ## 🗂 Repository Structure
 
+/presentations
+- EventFlow Event Management System.pptx
+  
 /documents
+- Github Link
 - Project Charter.pdf
 - Project Charter.docx
 
 /screenshots
-- Basecamp_Screenshot.pdf
+- Basecamp Link.docx
+- Basecamp Link.pdf
 
 /source-code
-- (Empty for now – reserved for future development)
-
-/presentations
-- Final_Presentation_Slides.pptx
+- infor.py (code to be added in the future)
 
 
 ---
